@@ -1,23 +1,9 @@
-Yes. Copy **everything inside this single box** and paste it directly into your `README.md` file:
 
-```markdown
 # 📊 Customer Churn Prediction System
 
 An end-to-end Machine Learning application that predicts whether a customer is likely to churn based on customer demographics, service subscriptions, contract details, and billing information.
 
 The project covers the complete Machine Learning workflow including data cleaning, exploratory data analysis, feature preprocessing, model comparison, hyperparameter tuning, probability threshold optimization, model serialization, and Streamlit deployment.
-
----
-
-## 🚀 Live Demo
-
-👉 [**Try the Customer Churn Prediction App**](http://tytugbyqvaxowwnjxs92bh.streamlit.app/)
-
-## 📂 GitHub Repository
-
-👉 [**Customer Churn Prediction - GitHub**](https://github.com/Khursheed-shaik/customer-churn-prediction)
-
----
 
 ## 📌 Project Overview
 
