@@ -1,11 +1,10 @@
 import streamlit as st
 import pandas as pd
+import sklearn
 import joblib
 
-
-# --------------------------------------------------
-# Load model
-# --------------------------------------------------
+st.write("Python/ML environment check")
+st.write("Scikit-learn version:", sklearn.__version__)
 
 model_package = joblib.load("churn_model.pkl")
 
